@@ -1,0 +1,1 @@
+{"buildCommand":"vite build --config vite.vercel.config.ts","outputDirectory":"dist-vercel","framework":"vite"}
